@@ -100,3 +100,4 @@ number of errors
 - Allow logging to file
 - Caching (I not sure whether it is needed, as DNS client is also doing some caching). TTL can be extracted from the response.
 - Cover more code with exception handling
+- Split application in modules and files
